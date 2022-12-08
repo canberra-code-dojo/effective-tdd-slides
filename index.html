@@ -1,0 +1,109 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>Effective TDD in Python</title>
+
+    <link rel="stylesheet" href="reveal.js/dist/reset.css">
+    <link rel="stylesheet" href="reveal.js/dist/reveal.css">
+    <link rel="stylesheet" href="reveal.js/dist/theme/simple.css">
+    <link rel="stylesheet" href="dojo.css">
+
+    <!-- Theme used for syntax highlighted code -->
+    <link rel="stylesheet" href="reveal.js/plugin/highlight/monokai.css">
+    <!-- Icons -->
+    <style>
+        img.icon {
+            display: inline;
+            width: 0.75em;
+            height: 0.75em;
+            margin: 0;
+            padding: 0;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides">
+            <section>
+                <h2>Effective TDD in Python</h2>
+                <ul style="list-style-type: none;">
+                    <li><img class="icon" src="images/linkedin.svg">&nbsp;Joe Schmetzer</li>
+                    <li><img class="icon" src="images/github.svg">&nbsp;tumbarumba</li>
+                    <li><img class="icon" src="images/twitter.svg">&nbsp;@tumbarumba</li>
+                    <li><img class="icon" src="images/mastodon.svg">&nbsp;@tumbarumba@techhub.social</li>
+                </ul>
+                <aside class="notes">
+                    <p>Leaning into my theme</p>
+                </aside>
+            </section>
+            <section>
+                <section>
+                    <h2>XP: eXtreme Programming</h2>
+                    <ul style="float: left; width: 50%">
+                        <li>Pair programming</li>
+                        <li>Test-Driven Development (TDD)</li>
+                        <li>Refactoring</li>
+                        <li>Simple Design</li>
+                    </ul>
+                    <img style="float: right; width: 45%" src="images/dials.png">
+                </section>
+                <section>
+                    <h2>Test-Driven Development</h2>
+                    <div class="r-stack">
+                        <img class="fragment" src="images/tdd-1a.png">
+                        <img class="fragment" src="images/tdd-1b.png">
+                    </div>
+                </section>
+                <section>
+                    <h2>TDD: Research</h2>
+                    <p><strong>Developer Testing in The IDE: Patterns, Beliefs, And Behavior</strong></p>
+                    <p>&mdash;M. M. Beller, et al, Delft University of Technology</p>
+                    <blockquote>
+                        Less than 1 in 10 developers who claim to do TDD actually get anywhere close when observed doing their work
+                    </blockquote>
+                </section>
+                <section>
+                    <h2>TDD: Better</h2>
+                    <img src="images/tdd-actual.png">
+                </section>
+                <section>
+                    <h2>Refactoring</h2>
+                    <ul>
+                        <li>Make sure <strong>all</strong> the tests pass</li>
+                        <li>Make a <strong>small</strong> change to the design of the code that
+                            <strong>improves</strong> it</li>
+                        <li>Make sure all the tests <strong>still</strong> pass</li>
+                    </ul>
+                </section>
+                <section>
+                    <h2>Demonstration</h2>
+                    <p>https://github.com/canberra-code-dojo/fcis</p>
+                </section>
+            </section>
+        </div>
+    </div>
+
+    <script src="reveal.js/dist/reveal.js"></script>
+    <script src="reveal.js/plugin/notes/notes.js"></script>
+    <script src="reveal.js/plugin/markdown/markdown.js"></script>
+    <script src="reveal.js/plugin/highlight/highlight.js"></script>
+    <script>
+        // More info about initialization & config:
+        // - https://revealjs.com/initialization/
+        // - https://revealjs.com/config/
+        Reveal.initialize({
+            hash: true,
+
+            // Learn about plugins: https://revealjs.com/plugins/
+            plugins: [RevealMarkdown, RevealHighlight, RevealNotes]
+        });
+    </script>
+</body>
+
+</html>

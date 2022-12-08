@@ -1,0 +1,12 @@
+/**
+ * Dojo theme, to be used with the simple theme distributed with reveal.js
+ */
+
+.reveal-viewport {
+  background: #fff;
+  background-color: var(--r-background-color);
+  background-image: url(images/tower-background.png);
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  background-size: 33%;
+}

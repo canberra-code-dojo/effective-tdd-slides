@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (56b05e47e7, 2022-06-09, custom)"
+   sodipodi:docname="tdd-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="418.25366"
+     inkscape:cy="366.28131"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker21433"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="8.65000012"
+       markerHeight="10"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path21431" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker21091"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="8.64999996"
+       markerHeight="10"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path21089" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="8.64999966"
+       markerHeight="10"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter11089"
+       x="-0.038141413"
+       y="-0.092176138"
+       width="1.0762828"
+       height="1.1843523">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.8874787"
+         id="feGaussianBlur11091" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter11089-7"
+       x="-0.038141413"
+       y="-0.092176138"
+       width="1.0762828"
+       height="1.1843523">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.8874787"
+         id="feGaussianBlur11091-8" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter11089-0"
+       x="-0.038141413"
+       y="-0.092176138"
+       width="1.0762828"
+       height="1.1843523">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.8874787"
+         id="feGaussianBlur11091-3" />
+    </filter>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="8.65000025"
+       markerHeight="10"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-3" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker21433)"
+       d="M 56.531274,89.471094 C 51.930923,53.512921 73.759558,37.552478 75.504914,36.239695"
+       id="path21429"
+       sodipodi:nodetypes="cc"
+       inkscape:label="path-refactor-red" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker21091)"
+       d="m 152.25221,115.65133 c -41.8905,43.41687 -82.415929,3.44111 -82.415929,3.44111"
+       id="path21087"
+       sodipodi:nodetypes="cc"
+       inkscape:label="path-green-refactor" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 139.54525,34.069418 c 31.93991,20.978104 24.85155,50.623275 24.85155,50.623275"
+       id="path20919"
+       sodipodi:nodetypes="cc"
+       inkscape:label="path-red-green" />
+    <g
+       id="g15156"
+       transform="translate(4.6610935,8.8177883)"
+       inkscape:label="g-refactor">
+      <rect
+         id="rect2539-93-6"
+         width="59.705402"
+         height="24.7054"
+         x="27.978247"
+         y="81.834961"
+         style="display:inline;fill:#1f1f1f;fill-opacity:1;stroke:#000000;stroke-width:0.294599;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter11089-0)"
+         ry="3.8641386"
+         inkscape:label="rect-refactor-shadow" />
+      <rect
+         id="rect2539-1"
+         width="59.705402"
+         height="24.7054"
+         x="27.09609"
+         y="81.006821"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.294599;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         ry="3.8641386"
+         inkscape:label="rect-refactor" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="56.240345"
+         y="96.171776"
+         id="text4261-1"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="56.240345"
+           y="96.171776"
+           id="tspan4263-2">Refactor</tspan></text>
+    </g>
+    <g
+       id="g15150"
+       transform="translate(0.19403613,10.379452)"
+       inkscape:label="g-green">
+      <rect
+         id="rect2539-93-4"
+         width="59.705402"
+         height="24.7054"
+         x="130.84021"
+         y="80.983368"
+         style="display:inline;fill:#1f1f1f;fill-opacity:1;stroke:#000000;stroke-width:0.294599;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter11089-7)"
+         ry="3.8641386"
+         inkscape:label="rect-green-shadow" />
+      <rect
+         id="rect2539-5"
+         width="59.705402"
+         height="24.7054"
+         x="129.95805"
+         y="80.155228"
+         style="fill:#00ff30;fill-opacity:1;stroke:#000000;stroke-width:0.294599;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         ry="3.8641386"
+         inkscape:label="rect-green" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="159.77803"
+         y="90.044685"
+         id="text4261-6"><tspan
+           sodipodi:role="line"
+           id="tspan4259-7"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="159.77803"
+           y="90.044685">Write</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="159.77803"
+           y="98.864136"
+           id="tspan4263-5">implementation</tspan></text>
+    </g>
+    <g
+       id="g15143"
+       transform="translate(-3.5255388,-2.9798613)"
+       inkscape:label="g-red">
+      <rect
+         id="rect2539-93"
+         width="59.705402"
+         height="24.7054"
+         x="84.547073"
+         y="21.860527"
+         style="display:inline;fill:#1f1f1f;fill-opacity:1;stroke:#000000;stroke-width:0.294599;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter11089)"
+         ry="3.8641386"
+         inkscape:label="rect-red-shadow" />
+      <rect
+         id="rect2539"
+         width="59.705402"
+         height="24.7054"
+         x="83.664917"
+         y="21.032387"
+         style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.294599;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         ry="3.8641386"
+         inkscape:label="rect-red" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="113.48489"
+         y="36.015419"
+         id="text4261"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;display:inline;stroke-width:0.264583"
+           x="113.48489"
+           y="36.015419"
+           id="tspan4263"
+           inkscape:label="tspan4263">Write a test</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline"
+     class="fragment">
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-6)"
+       d="M 128.36057,99.593969 C 96.585081,78.367642 104.00501,48.963489 104.00501,48.963489"
+       id="path20919-2"
+       sodipodi:nodetypes="cc"
+       inkscape:label="path-green-red" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="46.795486"
+       y="97.838165"
+       id="text23075"><tspan
+         sodipodi:role="line"
+         id="tspan23073"
+         style="stroke-width:0.264583"
+         x="46.795486"
+         y="97.838165">// TODO:</tspan></text>
+  </g>
+</svg>
